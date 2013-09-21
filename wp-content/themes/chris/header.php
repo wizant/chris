@@ -36,6 +36,7 @@
 		<meta itemprop="image" content="<?php echo $meta_image; ?>" />
 		
 		<!--Styles-->
+        <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_directory');?>/styles/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_directory');?>/styles/app.css" />
 		
 		<!--Scripts-->
@@ -88,7 +89,7 @@
 				<?php wp_nav_menu(
 					array(
 						'container' => 'nav',
-						'menu' => 'Primary navigation'
+						'menu' => 'Navigation'
 					)
 				); ?>
 				<!-- /navigation -->

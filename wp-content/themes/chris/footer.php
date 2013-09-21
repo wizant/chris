@@ -17,6 +17,7 @@
 		<![endif]-->
         <script type="text/javascript" src="<?php bloginfo('stylesheet_directory');?>/scripts/css3-mediaqueries.min.js" charset="utf-8"></script>
         <script type="text/javascript" src="<?php bloginfo('stylesheet_directory');?>/scripts/jquery.placeholder.min.js" charset="utf-8"></script>
+            <script type="text/javascript" src="<?php bloginfo('stylesheet_directory');?>/scripts/bootstrap.min.js" charset="utf-8"></script>
 		<script type="text/javascript" src="<?php bloginfo('stylesheet_directory');?>/scripts/app.js" charset="utf-8"></script>
 	</body>
 </html>

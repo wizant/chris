@@ -257,26 +257,48 @@ form,fieldset,ol,ul,header,footer,section,article,#content,.content {
 
     /*------------ =container------------*/
     #container {
-        width: 980px;
-        margin: 0 auto;
         position: relative;
         font-size: 1.2em;
     }
 
     .content {
+        width: 980px;
+        margin: 0 auto;
     }
 
     /*------------ =header-------------*/
     #header {
+        width: 100%;
+        padding: 1em 3em;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: #fff;
+        -moz-box-shadow: 0 1px 1px rgba(6, 8, 8, 0.1);
+        -webkit-box-shadow: 0 1px 1px rgba(6, 8, 8, 0.1);
+        box-shadow: 0 1px 1px rgba(6, 8, 8, 0.1);
     }
 
     #logo {
+        display: block;
+        float: left;
     }
 
-    #site-title {
+    #header .menu {
+        float: left;
+        font-size: 1.1em;
+        font-weight: bold;
     }
 
-    #site-description {
+    #header .menu li {
+        float: left;
+        margin-left: 4em;
+    }
+
+    #header .menu a {
+        display: block;
+        padding: 1em;
+        color: #3A3A3A;
     }
 
     /*------------ =content--------------*/
