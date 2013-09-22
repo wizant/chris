@@ -2,529 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f21646-d20d-447e-8aa9-17e58e930de5" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membership.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\addons\integrated.wproles.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\addons\member.widget.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\addons\newsstream.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\addons\repairmembership.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\addons\simple.invitecodes.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.adminbar.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.gateway.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.help.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.level.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.membersearch.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.membership.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.ping.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.rule.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.shortcodes.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.subscription.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.tutorial.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.urlgroup.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\class.wizard.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\membershipadmin.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\membershipcron.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\membershipprotection.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\membershippublic.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\classes\upgrade.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\accountform.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\authorizenet.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\buttons.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\coupons.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\default.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\levels.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\options.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\popupregistration.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\publicforms.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\renewform.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\subscriptionform.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\subscriptions.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\css\upgradeform.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\gateways\gateway.freesubscriptions.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\gateways\gateway.paypalexpress.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\gateways\gateway.paypalsolo.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\header.communications.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\header.coupons.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\header.gateways.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\header.levels.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\header.members.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\header.pings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\header.subscriptions.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\header.urlgroups.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.addons.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.communication.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.communicationedit.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.dashboard.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.gateways.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.levels.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.levelsedit.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.members.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.options.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.optionscontent.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.optionsdownloads.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.optionsextras.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.optionspages.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.pings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.pingsedit.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.pingshistory.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.sidebar.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.subs.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.subsedit.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.urlgroups.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\help\help.urlgroupsedit.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\2co.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\2co_logo_64.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\arrows-dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\bullet_green.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\bullet_red.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\card_array.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\cc_process_payment.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\credit_card.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\credit_card_64.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\down-arrow-frame.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\ed-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\gray-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\information.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\members.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\noaccess\noaccess.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\pointer-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\wizardbackground.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\images\xit.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\account.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\bp.account.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\bp.registration.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\class_wd_help_tooltips.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\coupon.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\default.gateways.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\default.rules.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\functions.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\member.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\membership-config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\new-pointer-tutorials.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\payment.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\pointer-tutorials.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\popover_payment.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\popover_signup.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\registration.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\renew.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\subscription.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\includes\upgrade.form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\accountform.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\dashboard.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-bg_flat_10_000000_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-bg_glass_100_f6f6f6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-bg_glass_100_fdf5ce_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-icons_228ef1_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-icons_ef8c08_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-icons_ffd27a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\css\ui-lightness\images\ui-icons_ffffff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\js\datepicker-i18n.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\js\datepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\js\jquery-ui-i18n.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\js\jquery.timepicker.dev.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\datepicker\js\jquery.timepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\excanvas.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_close.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_loading.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_nav_left.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_nav_right.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_shadow_e.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_shadow_n.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_shadow_ne.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_shadow_nw.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_shadow_s.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_shadow_se.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_shadow_sw.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_shadow_w.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_title_left.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_title_main.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_title_over.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancy_title_right.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancybox-x.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancybox-y.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\fancybox.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\jquery.easing-1.3.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\jquery.fancybox-1.3.4.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\jquery.fancybox-1.3.4.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\jquery.fancybox-1.3.4.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\fancybox\jquery.mousewheel-3.0.4.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\jquery.flot.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\levels.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\members.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\ping.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\popupregistration.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\renewform.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\subscriptions.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\urlgroup.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\js\users.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\languages\membership-en_US.mo" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\languages\membership.mo" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\membershipincludes\languages\membership.po" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\screenshot-1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\screenshot-10.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\screenshot-11.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\screenshot-2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\screenshot-3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\screenshot-4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\screenshot-5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\screenshot-6.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\screenshot-7.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\screenshot-8.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\membership\screenshot-9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\hide-admin-bar-from-non-admins.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\images\pmpro-aweber.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\images\pmpro-infusionsoft.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\images\pmpro-mailchimp.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\images\pmpro-network.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\images\pmpro-post-affiliate-pro.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\images\pmpro-register-helper.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\images\pmpro-series.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\images\pmpro-wp-affiliate-platform.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\images\wp-bouncer.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-addon-packages.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-affiliates.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-aweber.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-bbpress.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-disable-emails.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-expiration.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-freeaddress.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-infusionsoft.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-international-addresses.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-level-cost-text.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-mailchimp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-network.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-post-affiliate-pro.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-register-helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-require-code-to-register.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-series.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-shipping.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-stripe-lite.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-user-pages.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\pmpro-wp-affiliate.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\tml.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\addons\wp-bouncer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\admin_footer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\admin_header.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\advancedsettings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\dashboard.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\discountcodes.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\emailsettings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\functions.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\membershiplevels.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\memberslist-csv.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\memberslist.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\orders-csv.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\orders.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\pagesettings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\paymentsettings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\reports.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\reports\login.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\adminpages\reports\sales.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\class.memberorder.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\class.mimetype.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\class.pmproemail.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_authorizenet.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_braintree.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_check.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_payflowpro.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_paypal.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_paypalexpress.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_paypalstandard.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\css\admin.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\css\frontend.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\css\print.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\admin_change.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\admin_change_admin.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\billing.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\billing_admin.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\billing_failure.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\billing_failure_admin.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\cancel.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\cancel_admin.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_check.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_check_admin.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_express.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_express_admin.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_free.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_free_admin.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_freetrial.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_freetrial_admin.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_paid.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_paid_admin.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_trial.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\checkout_trial_admin.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\credit_card_expiring.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\default.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\footer.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\header.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\invoice.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\membership_expired.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\membership_expiring.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\email\trial_ending.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\CCV-back.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\CCV-front.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\Paid-Memberships-Pro.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\Paid-Memberships-Pro_watermark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\PaidMembershipsPro-grey.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\PaidMembershipsPro.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\bg_grad-chrome.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\bg_grad-grey.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\creditcards.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\delete.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\enlarge.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon-pmproadmin16-sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon-pmproadmin16-sprite_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon-pmproadmin32.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon-pmproadmin32_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon_alert.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon_comment.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon_comments.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon_continue.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon_delete.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon_email.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon_error.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon_information.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon_phone.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon_search.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\icon_success.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\menu_users.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\printer.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\images\tag_sale.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\adminpages.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\cleanup.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\content.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\countries.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\currencies.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\email.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\filters.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\functions.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\https.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\init.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\AddOn.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Address.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Collection.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Configuration.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\CreditCard.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\CreditCardVerification.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\CreditCardVerificationSearch.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Customer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\CustomerSearch.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Descriptor.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Digest.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Discount.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\EqualityNode.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Error\Codes.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Error\ErrorCollection.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Error\Validation.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Error\ValidationErrorCollection.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\Authentication.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\Authorization.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\Configuration.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\DownForMaintenance.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\ForgedQueryString.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\InvalidSignature.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\NotFound.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\SSLCaFileNotFound.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\SSLCertificate.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\ServerError.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\Unexpected.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\UpgradeRequired.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Exception\ValidationsFailed.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Http.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Instance.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\IsNode.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\KeyValueNode.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Modification.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\MultipleValueNode.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\MultipleValueOrTextNode.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\PartialMatchNode.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Plan.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\RangeNode.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\ResourceCollection.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Result\CreditCardVerification.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Result\Error.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Result\Successful.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\SettlementBatchSummary.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Subscription.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\SubscriptionSearch.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\SubscriptionStatus.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Test\CreditCardNumbers.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Test\TransactionAmounts.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\TextNode.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Transaction.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\TransactionSearch.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Transaction\AddressDetails.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Transaction\CreditCardDetails.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Transaction\CustomerDetails.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Transaction\StatusDetails.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Transaction\SubscriptionDetails.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\TransparentRedirect.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Util.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Version.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\WebhookNotification.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\WebhookTesting.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Xml.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Xml\Generator.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\Braintree\Xml\Parser.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\ssl\sandbox_braintreegateway_com.ca.crt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Braintree\ssl\www_braintreegateway_com.ca.crt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Account.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\ApiConnectionError.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\ApiError.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\ApiRequestor.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\ApiResource.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\AuthenticationError.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\CardError.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Charge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Coupon.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Customer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Error.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Event.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\InvalidRequestError.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Invoice.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\InvoiceItem.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\List.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Object.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Plan.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\SingletonApiResource.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Stripe.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Token.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Transfer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Util.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\Stripe\Util\Set.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\Stripe\data\ca-certificates.crt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\name-parser.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\lib\recaptchalib.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\localization.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\login.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\metaboxes.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\notifications.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\profile.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\recaptcha.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\reports.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\services.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\setup.sql" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\states.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\includes\upgradecheck.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\js\paid-memberships-pro.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\languages\pmpro.mo" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\languages\pmpro.po" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\languages\pmpro.pot" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\license.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\pages\account.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\pages\billing.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\pages\cancel.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\pages\checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\pages\confirmation.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\pages\invoice.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\pages\levels.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\pages\popup-cvv.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\paid-memberships-pro.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\preheaders\account.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\preheaders\billing.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\preheaders\cancel.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\preheaders\checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\preheaders\confirmation.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\preheaders\invoice.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\preheaders\levels.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\scheduled\creditcardexpiringwarnings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\scheduled\crons.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\scheduled\expirationwarnings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\scheduled\expirememberships.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\scheduled\trialendingwarnings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\screenshot-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\screenshot-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\screenshot-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\screenshot-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\services\applydiscountcode.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\services\authnet-silent-post.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\services\braintree-webhook.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\services\getfile.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\services\ipnhandler.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\services\stripe-webhook.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\shortcodes\checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\shortcodes\checkout_button.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\shortcodes\membership.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\paid-memberships-pro\uninstall.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\css\admin\my.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\css\admin\tablestyle.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\css\site\tipTip.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\add-new-pricing-table-1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\add-new-pricing-table.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\borderbottom.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\cross.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\featured.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\hide-price-detail.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\lock.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\minimax.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\move.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\pricing-table-menu.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\pricing-table-preview.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\table.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\tick.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\tooltip.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\trash.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\trash_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\unfeatured.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\unfeatured.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\wpdm.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\wpeden.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\images\wpmp.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\js\admin\dragtable.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\js\admin\jquery.tablednd_0_5.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\js\site\jquery.tipTip.minified.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\languages\pricing-table.mo" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\languages\pricing-table.po" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\libs\class.plugin.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\modules\metabox.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\pricing-table.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\screenshot-1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\screenshot-2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\screenshot-3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\screenshot-4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\screenshot-5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\css\960.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\css\minimal.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\css\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\help.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\images\bestvalue1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\images\bestvalue2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\images\bestvalue3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\images\bestvalue4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\images\bestvalue5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\images\borderbottom.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\images\offer-tag.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\metabox-feature-options.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\price_table-gray.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\price_table-green.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\price_table-smooth.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Work\projects\chris\wp-content\plugins\pricing-table\tpls\price_table.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chris/styles/app.css" afterPath="$PROJECT_DIR$/wp-content/themes/chris/styles/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/chris/single-expert.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chris.sql" afterPath="$PROJECT_DIR$/chris.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chris/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/chris/front-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css" afterPath="$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chris.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -536,11 +18,13 @@
     <file path="/single.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379775139693" ignored="false" />
     <file path="/index.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379775156974" ignored="false" />
     <file path="/style.css" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379804814924" ignored="false" />
-    <file path="/front-page.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379824272964" ignored="false" />
+    <file path="/front-page.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379825137482" ignored="false" />
     <file path="/404.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379817485592" ignored="false" />
     <file path="/archive.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379817515372" ignored="false" />
     <file path="/searchform.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379817956243" ignored="false" />
     <file path="/dummy.xml" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379823853845" ignored="false" />
+    <file path="/single-expert.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379825019372" ignored="false" />
+    <file path="/go_pricing_styles.css" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379825479501" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -560,19 +44,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/styles/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="463" column="29" selection-start="10091" selection-end="10091" vertical-scroll-proportion="0.8325123">
+            <state line="463" column="29" selection-start="10091" selection-end="10091" vertical-scroll-proportion="-40.56">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/styles/bootstrap.css">
+      <file leaf-file-name="single-expert.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/single-expert.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2080" column="14" selection-start="34301" selection-end="34373" vertical-scroll-proportion="-7.86">
+            <state line="27" column="30" selection-start="1213" selection-end="1213" vertical-scroll-proportion="-17.653847">
               <folding />
             </state>
           </provider>
@@ -599,19 +83,8 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="12" selection-start="36" selection-end="2395" vertical-scroll-proportion="-1.3076923">
+            <state line="29" column="26" selection-start="0" selection-end="2419" vertical-scroll-proportion="-18.961538">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="archive.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/archive.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="23" selection-start="310" selection-end="3066" vertical-scroll-proportion="-70.61539">
-              <folding>
-                <element signature="e#6#281#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -628,7 +101,16 @@
       <file leaf-file-name="front-page.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="76" selection-start="2306" selection-end="2306" vertical-scroll-proportion="-38.307693">
+            <state line="37" column="40" selection-start="1336" selection-end="1336" vertical-scroll-proportion="-16.73077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="go_pricing_styles.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="403" column="20" selection-start="12163" selection-end="12163" vertical-scroll-proportion="0.538214">
               <folding />
             </state>
           </provider>
@@ -670,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/chris/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chris/single.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-1/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chris/style.css" />
@@ -683,8 +164,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/chris/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chris/searchform.php" />
         <option value="$PROJECT_DIR$/wp-includes/post-template.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chris/front-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chris/styles/app.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/chris/single-expert.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/chris/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css" />
       </list>
     </option>
   </component>
@@ -839,7 +322,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1426" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -853,7 +336,7 @@
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16825776" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16825776" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -925,20 +408,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-1/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="33" selection-start="752" selection-end="752" vertical-scroll-proportion="0.06984388">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.11175021">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/single.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="26" selection-start="1272" selection-end="1272" vertical-scroll-proportion="0.3911257">
@@ -963,20 +432,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/styles/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2080" column="14" selection-start="34301" selection-end="34373" vertical-scroll-proportion="-7.86">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="53" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="36" selection-end="2395" vertical-scroll-proportion="-1.3076923">
           <folding />
         </state>
       </provider>
@@ -1025,16 +480,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/front-page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/styles/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="76" selection-start="2306" selection-end="2306" vertical-scroll-proportion="-38.307693">
+        <state line="463" column="29" selection-start="10091" selection-end="10091" vertical-scroll-proportion="-40.56">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/styles/app.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="463" column="29" selection-start="10091" selection-end="10091" vertical-scroll-proportion="0.8325123">
+        <state line="29" column="26" selection-start="0" selection-end="2419" vertical-scroll-proportion="-18.961538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="53" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/single-expert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="30" selection-start="1213" selection-end="1213" vertical-scroll-proportion="-17.653847">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="40" selection-start="1336" selection-end="1336" vertical-scroll-proportion="-16.73077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="403" column="20" selection-start="12163" selection-end="12163" vertical-scroll-proportion="0.538214">
           <folding />
         </state>
       </provider>

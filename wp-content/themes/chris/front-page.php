@@ -35,7 +35,7 @@
         <a href="" class="btn btn-default btn-lg">I forgot the text</a>
     </li>
     <li class="col-md-4">
-        <a href="" class="btn btn-default btn-lg">Improve yourself</a>
+        <a href="" class="btn btn-danger btn-lg">Improve yourself</a>
     </li>
 </ul>
 

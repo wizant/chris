@@ -401,12 +401,12 @@
 		-webkit-border-radius:50px;
 		-moz-border-radius:50px;
 		border-radius:50px;
-		font-size:32px;
-		height:56px;			
+		font-size:28px;
+        line-height: 78px;
+		height:78px;
 		margin:0 auto;
 		margin-top:-1px;
 		margin-left:-1px;
-		padding-top:22px;		
 		width:78px;
 		top:0;
 	}
