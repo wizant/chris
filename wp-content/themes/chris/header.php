@@ -36,6 +36,7 @@
 		<meta itemprop="image" content="<?php echo $meta_image; ?>" />
 		
 		<!--Styles-->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css' />
         <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_directory');?>/styles/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_directory');?>/styles/app.css" />
 		
@@ -71,30 +72,28 @@
 	<body <?php body_class($post->post_name); ?>>
 		<!--container-->
 		<div id="container">
-			<!--header-->
+            <div id="wrap">
+            <!--header-->
 			<header id="header">
-				<?php
-					if ( ! empty( $header_image ) ) {
-				?>
-					<a href="<?php echo esc_url( home_url( '/' ) ); ?>" id="logo">
-						<img src="<?php echo esc_url( $header_image ); ?>" width="<?php echo get_custom_header()->width; ?>" height="<?php echo get_custom_header()->height; ?>" alt="<?php echo get_bloginfo('name') . ' - ' . get_bloginfo('description') ; ?>" title="" />
-					</a>
-				<?php } ?>
-				<hgroup>
-					<h2 id="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h2>
-					<h3 id="site-description"><?php bloginfo( 'description' ); ?></h3>
-				</hgroup>
-				
-				<!-- navigation -->
-				<?php wp_nav_menu(
-					array(
-						'container' => 'nav',
-						'menu' => 'Navigation'
-					)
-				); ?>
-				<!-- /navigation -->
+				<div class="content">
+                    <a href="<?php bloginfo('url'); ?>" id="logo" class="glyphicon glyphicon-list-alt glyphicon-list-alt-large"></a>
+                    <hgroup>
+                        <h2 id="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h2>
+                        <h3 id="site-description"><?php bloginfo( 'description' ); ?></h3>
+                    </hgroup>
+
+                    <!-- navigation -->
+                    <?php wp_nav_menu(
+                        array(
+                            'container' => 'nav',
+                            'menu' => 'Navigation'
+                        )
+                    ); ?>
+                    <!-- /navigation -->
+				</div>
 			</header>
 			<!--/header-->
 			
 			<!--content-->
 			<div id="content">
+                <div class="content">

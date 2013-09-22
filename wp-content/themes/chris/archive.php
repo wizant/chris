@@ -26,7 +26,7 @@
 			endif;
 		?></h1>
 	</header>
-	
+
 	<?php if (have_posts()) { ?>
 		<!--posts-->
 		<div id="posts">
@@ -37,7 +37,7 @@
 						<a href="<?php the_permalink(); ?>" rel="bookmark"><?php the_title(); ?></a>
 					</h2>
 				</header>
-				
+
 				<div class="entry-summary">
 				  <?php if(has_post_thumbnail()) { ?>
 				  <a href="<?php the_permalink(); ?>" class="post-thumbnail">
@@ -52,7 +52,7 @@
 		          <?php } ?>
 				  <?php	the_excerpt(); ?>
 				</div>
-				
+
 				<footer class="entry-meta">
 					<ul>
 						<li class="entry-tags">
@@ -73,13 +73,13 @@
 		<?php } ?>
 		</div>
 		<!--/posts-->
-		
+
 		<!--navigation-->
 		<div class="navigation">
 			<?php
 				global $wp_query;
 				$limit = 999999999; // need an unlikely integer
-			
+
 			echo paginate_links( array(
 				'base' => str_replace( $limit, '%#%', get_pagenum_link( $limit ) ),
 				'format' => '?paged=%#%',
@@ -95,11 +95,11 @@
 			<header class="entry-header">
 				<h2 class="entry-title">Nothing found</h2>
 			</header>
-			
+
 			<div class="entry-content">
 				<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.</p>
 			</div>
-			
+
 			<?php get_search_form(); ?>
 		</article>
 	<?php } ?>

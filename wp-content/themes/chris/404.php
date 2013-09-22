@@ -6,11 +6,11 @@
 		<header class="entry-header">
 			<h1 class="entry-title"><?php wp_title('-'); ?></h1>
 		</header>
-		
+
 		<div class="entry-content">
 			<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.</p>
 		</div>
-		
+
 		<?php get_search_form(); ?>
 	</article>
 </div>

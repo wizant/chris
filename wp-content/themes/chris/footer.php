@@ -1,8 +1,41 @@
-			</div>
+                </div>
+            </div>
 			<!--/content-->
+            </div>
 			
 			<!--footer-->
 			<footer id="footer">
+                <div id="sec-nav">
+                    <div class="content">
+                        <!--social networks-->
+                        <nav id="social">
+                            <ul>
+                                <li>
+                                    <a href="" class="social-icon social-icon-facebook">Find us on Facebook</a>
+                                </li>
+                                <li>
+                                    <a href="" class="social-icon social-icon-twitter">Find us on Twitter</a>
+                                </li>
+                                <li>
+                                    <a href="" class="social-icon social-icon-google-plus">Find us on Google+</a>
+                                </li>
+                            </ul>
+                        </nav>
+                        <!--/social networks-->
+
+                        <!-- navigation -->
+                        <?php wp_nav_menu(
+                            array(
+                                'container' => 'nav',
+                                'menu' => 'Navigation'
+                            )
+                        ); ?>
+                        <!-- /navigation -->
+                    </div>
+                </div>
+                <div id="copyright">
+                    <div class="content">&copy; <?php echo date('Y'); ?> Company.me, Inc. All rights reserved.</div>
+                </div>
 			</footer>
 			<!--/footer-->
 		</div>
