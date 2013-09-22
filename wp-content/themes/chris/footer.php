@@ -27,7 +27,7 @@
                         <?php wp_nav_menu(
                             array(
                                 'container' => 'nav',
-                                'menu' => 'Navigation'
+                                'menu' => 'Footer'
                             )
                         ); ?>
                         <!-- /navigation -->

@@ -7,25 +7,27 @@
         <div id="posts">
             <?php while (have_posts()) { the_post(); ?>
                 <article <?php post_class(); ?> id="post-<?php the_ID(); ?>">
-                    <header class="entry-header">
-                        <h1 class="entry-title">
-                            <a href="<?php the_permalink(); ?>" rel="bookmark"><?php the_title(); ?></a>
-                        </h1>
-                    </header>
+                    <?php if(has_post_thumbnail()) { ?>
+                        <a href="<?php the_permalink(); ?>" class="post-thumbnail pull-left">
+                            <?php the_post_thumbnail(
+                                'thumbnail',
+                                array(
+                                    'alt' => get_the_title(),
+                                    'title' => get_the_title()
+                                )
+                            );?>
+                        </a>
+                    <?php } ?>
+                    <div class="entry-info">
+                        <header class="entry-header">
+                            <h1 class="entry-title">
+                                <a href="<?php the_permalink(); ?>" rel="bookmark"><?php the_title(); ?></a>
+                            </h1>
+                        </header>
 
-                    <div class="entry-summary">
-                        <?php if(has_post_thumbnail()) { ?>
-                            <a href="<?php the_permalink(); ?>" class="post-thumbnail">
-                                <?php the_post_thumbnail(
-                                    array(80,80),
-                                    array(
-                                        'alt' => get_the_title(),
-                                        'title' => get_the_title()
-                                    )
-                                );?>
-                            </a>
-                        <?php } ?>
-                        <?php the_content(); ?>
+                        <div class="entry-summary">
+                            <?php the_content(); ?>
+                        </div>
                     </div>
                 </article>
             <?php } ?>

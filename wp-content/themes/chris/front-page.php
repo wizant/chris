@@ -2,8 +2,6 @@
 
 <h1 class="hero text-center"><?php echo bloginfo('description'); ?></h1>
 
-<div id="intro">Video here</div>
-
 <?php if (have_posts()) { ?>
     <?php while (have_posts()) { the_post(); ?>
         <article <?php post_class(); ?> id="post-<?php the_ID(); ?>">
@@ -25,21 +23,93 @@
                         );?>
                     </a>
                 <?php } ?>
-                <?php	the_content(); ?>
+                <?php the_content(); ?>
             </div>
         </article>
     <?php } ?>
 <?php } ?>
 
-<ul class="row listing">
+<ul class="row">
     <li class="col-md-4">
-        <a href="" class="btn btn-default btn-lg">Get noticed</a>
+        <div class="thumbnail">
+            <div class="text-center">
+                <h3>
+                    <a href="<?php ?>">Get noticed</a>
+                </h3>
+                <a href="" class="glyphicon glyphicon-bullhorn"></a>
+            </div>
+            <ul class="list-unstyled">
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+            </ul>
+        </div>
     </li>
     <li class="col-md-4">
-        <a href="" class="btn btn-default btn-lg">I forgot the text</a>
+        <div class="thumbnail">
+            <div class="text-center">
+                <h3>
+                    <a href="<?php ?>">Improve yourself</a>
+                </h3>
+                <a href="" class="glyphicon glyphicon-user"></a>
+            </div>
+            <ul class="list-unstyled">
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+            </ul>
+        </div>
     </li>
     <li class="col-md-4">
-        <a href="" class="btn btn-danger btn-lg">Improve yourself</a>
+        <div class="thumbnail">
+            <div class="text-center">
+                <h3>
+                    <a href="<?php ?>">Prepare for interview</a>
+                </h3>
+                <a href="" class="glyphicon glyphicon-folder-open"></a>
+            </div>
+            <ul class="list-unstyled">
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+                <li>
+                    <a href="">Lorem ipsum dolor</a>
+                </li>
+            </ul>
+        </div>
     </li>
 </ul>
 

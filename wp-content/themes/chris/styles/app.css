@@ -376,7 +376,7 @@ form,fieldset,ol,ul,header,footer,section,article,#content,.content {
     #intro {
         width: 800px;
         height: 400px;
-        margin: 0 auto 5em auto;
+        margin: 0 auto 2em auto;
         text-align: center;
         font-size: 2em;
         line-height: 400px;
@@ -450,19 +450,30 @@ form,fieldset,ol,ul,header,footer,section,article,#content,.content {
     .post {
     }
 
+    .post-thumbnail.pull-left {
+        margin-right: 2em;
+    }
+
+    .post-thumbnail.pull-right {
+        margin-left: 2em;
+    }
+
     .post-thumbnail {
         display: block;
         opacity: .75; /* standard: ff gt 1.5, opera, safari */
-        -ms-filter: "alpha(opacity=75)"; /* ie 8 */
-        filter: alpha(opacity=75); /* ie lt 7 */
-        -khtml-opacity: .75; /* safari 1.x */
-        -moz-opacity: .75; /* ff lt 1.5, netscape */
+        -ms-filter: "alpha(opacity=80)"; /* ie 8 */
+        filter: alpha(opacity=80); /* ie lt 7 */
+        -khtml-opacity: .8; /* safari 1.x */
+        -moz-opacity: .8; /* ff lt 1.5, netscape */
     }
 
     .post-thumbnail img {
         -moz-border-radius: 50%;
         -webkit-border-radius: 50%;
         border-radius: 50%;
+    }
+
+    .post-thumbnail {
         -webkit-transition: all 0.3s ease-out;
         -moz-transition: all 0.3s ease-out;
         -o-transition: all 0.3s ease-out;
@@ -487,6 +498,11 @@ form,fieldset,ol,ul,header,footer,section,article,#content,.content {
     .hero {
         margin-bottom: 1.5em;
         font-size: 3em;
+    }
+
+    .entry-info {
+        overflow: hidden;
+        zoom: 1;
     }
 
     .entry-header {
@@ -554,6 +570,26 @@ form,fieldset,ol,ul,header,footer,section,article,#content,.content {
     }
 
     .navigation {
+    }
+
+    /* thumbnails */
+    .thumbnail ul {
+        margin: 0.5em 0 0.5em 1.5em;
+        list-style: disc;
+    }
+
+    .thumbnail li {
+        list-style: disc;
+    }
+
+    .thumbnail .glyphicon {
+        text-decoration: none;
+        font-size: 3em;
+        color: #6daee6;
+    }
+
+    .thumbnail a {
+        color: #333;
     }
 
     /* comments */
@@ -626,7 +662,7 @@ form,fieldset,ol,ul,header,footer,section,article,#content,.content {
         text-overflow: ellipsis;
     }
 
-    .services li {
+    ul.services li {
         margin-bottom: 2em;
     }
 
@@ -636,6 +672,11 @@ form,fieldset,ol,ul,header,footer,section,article,#content,.content {
     .lt-ie8 {}
 
     .lt-ie9 {}
+
+    /* hacks */
+    .tests .entry-title {
+        display: none;
+    }
 }
 
 /* Smartphones (portrait and landscape) ----------- */
