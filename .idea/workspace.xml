@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f21646-d20d-447e-8aa9-17e58e930de5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chris/styles/app.css" afterPath="$PROJECT_DIR$/wp-content/themes/chris/styles/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chris/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/chris/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chris/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/chris/front-page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css" afterPath="$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chris/single-expert.php" afterPath="$PROJECT_DIR$/wp-content/themes/chris/single-expert.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chris.sql" afterPath="$PROJECT_DIR$/chris.sql" />
     </list>
     <ignored path="chris.iws" />
     <ignored path=".idea/workspace.xml" />
