@@ -1,5 +1,9 @@
 <?php get_header(); ?>
 
+<h1 class="hero text-center"><?php echo bloginfo('description'); ?></h1>
+
+<div id="intro">Video here</div>
+
 <?php if (have_posts()) { ?>
     <?php while (have_posts()) { the_post(); ?>
         <article <?php post_class(); ?> id="post-<?php the_ID(); ?>">

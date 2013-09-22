@@ -2,23 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f21646-d20d-447e-8aa9-17e58e930de5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/chris/single-expert.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chris.sql" afterPath="$PROJECT_DIR$/chris.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chris/styles/app.css" afterPath="$PROJECT_DIR$/wp-content/themes/chris/styles/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/chris/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/chris/front-page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css" afterPath="$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chris.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379787982347" ignored="false" />
     <file path="/header.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379817606428" ignored="false" />
     <file path="/footer.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379817590132" ignored="false" />
-    <file path="/app.css" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379824656912" ignored="false" />
+    <file path="/app.css" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379827183880" ignored="false" />
     <file path="/page.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379774292169" ignored="false" />
     <file path="/single.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379775139693" ignored="false" />
     <file path="/index.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379775156974" ignored="false" />
     <file path="/style.css" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379804814924" ignored="false" />
-    <file path="/front-page.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379825137482" ignored="false" />
+    <file path="/front-page.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379827049792" ignored="false" />
     <file path="/404.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379817485592" ignored="false" />
     <file path="/archive.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379817515372" ignored="false" />
     <file path="/searchform.php" changelist="88f21646-d20d-447e-8aa9-17e58e930de5" time="1379817956243" ignored="false" />
@@ -44,10 +41,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/styles/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="463" column="29" selection-start="10091" selection-end="10091" vertical-scroll-proportion="-40.56">
+            <state line="371" column="18" selection-start="8249" selection-end="8249" vertical-scroll-proportion="0.34729064">
               <folding />
             </state>
           </provider>
@@ -101,16 +98,16 @@
       <file leaf-file-name="front-page.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="40" selection-start="1336" selection-end="1336" vertical-scroll-proportion="-16.73077">
+            <state line="4" column="26" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.6153846">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="go_pricing_styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="go_pricing_styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="403" column="20" selection-start="12163" selection-end="12163" vertical-scroll-proportion="0.538214">
+            <state line="392" column="46" selection-start="11739" selection-end="11739" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -164,10 +161,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/chris/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chris/searchform.php" />
         <option value="$PROJECT_DIR$/wp-includes/post-template.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chris/styles/app.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/chris/single-expert.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chris/front-page.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/chris/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/chris/styles/app.css" />
       </list>
     </option>
   </component>
@@ -480,13 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/styles/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="463" column="29" selection-start="10091" selection-end="10091" vertical-scroll-proportion="-40.56">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="26" selection-start="0" selection-end="2419" vertical-scroll-proportion="-18.961538">
@@ -508,16 +498,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/front-page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="40" selection-start="1336" selection-end="1336" vertical-scroll-proportion="-16.73077">
+        <state line="392" column="46" selection-start="11739" selection-end="11739" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="403" column="20" selection-start="12163" selection-end="12163" vertical-scroll-proportion="0.538214">
+        <state line="4" column="26" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chris/styles/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="371" column="18" selection-start="8249" selection-end="8249" vertical-scroll-proportion="0.34729064">
           <folding />
         </state>
       </provider>

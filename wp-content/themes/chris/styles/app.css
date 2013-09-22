@@ -275,16 +275,15 @@ form,fieldset,ol,ul,header,footer,section,article,#content,.content {
         min-height: 100%;
         height: auto !important;
         height: 100%;
-        margin: 0px 0px -11em 0px;
     }
 
+    /* typography */
     a {
         -webkit-transition: all 0.3s ease-out;
         -moz-transition: all 0.3s ease-out;
         -o-transition: all 0.3s ease-out;
         transition: all 0.3s ease-out;
     }
-
 
     /* forms */
     input[type="date"],
@@ -370,7 +369,21 @@ form,fieldset,ol,ul,header,footer,section,article,#content,.content {
 
     /*------------ =content--------------*/
     #content {
-        padding: 2em 0;
+        padding: 3em 0 11em 0;
+    }
+
+    #intro {
+        width: 800px;
+        height: 400px;
+        margin: 0 auto 5em auto;
+        text-align: center;
+        font-size: 2em;
+        line-height: 400px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+        background: #fff;
+        border: 1px solid #999;
     }
 
     #main-content {
@@ -381,6 +394,7 @@ form,fieldset,ol,ul,header,footer,section,article,#content,.content {
 
     /*------------ =footer------------*/
     #footer {
+        margin-top: -11em;
     }
 
     #sec-nav {
@@ -469,10 +483,19 @@ form,fieldset,ol,ul,header,footer,section,article,#content,.content {
         -moz-opacity: 1; /* ff lt 1.5, netscape */
     }
 
+    .hero {
+        margin-bottom: 1.5em;
+        font-size: 3em;
+    }
+
     .entry-header {
     }
 
     .entry-title {
+    }
+
+    .entry-title a {
+        text-decoration: none;
     }
 
     .entry-content {
